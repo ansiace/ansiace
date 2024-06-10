@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansiace" alt="ansiace" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning *DSA*
 
-- 💬 Ask me about **Full-Stack**
+- 💬 Ask me about **Full-Stack** and **DSA**
 
 - 📫 How to reach me **animeshraj80707@gmail.com**
 
