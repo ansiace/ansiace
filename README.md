@@ -1,11 +1,11 @@
 ![banner](https://github.com/ansiace/ansiace/assets/172098711/708508e6-293c-4851-a74f-1c4e318456c3)
 
 <h1 align="center">Hi 👋, This is Animesh Raj </h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate and enthusiast Full-Stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansiace" alt="ansiace" /></a> </p>
 
-- 🌱 I’m currently learning *DSA* and *Back-End*
+- 🌱 I’m currently learning *DSA* and *MERN stack*
 
 - 💬 Ask me about **Full-Stack** and **DSA**
 
