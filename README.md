@@ -2,10 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansiace" alt="ansiace" /></a> </p>
 
-
-<h3 align="center">A passionate and enthusiast Full-Stack developer from India</h3>
-
-
 <!-- currently learning skills  -->
 
 - 🌱 I’m currently learning *DSA* and *MERN stack*
