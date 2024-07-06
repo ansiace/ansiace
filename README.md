@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansiace" alt="ansiace" /></a> </p>
 
-<h1 align="center">Hi 👋, This is Animesh Raj </h1>
+
 <h3 align="center">A passionate and enthusiast Full-Stack developer from India</h3>
 
 
