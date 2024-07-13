@@ -2,11 +2,6 @@
 
 <h1 align="center">Hi 👋, I am Animesh Raj</h1>
 
-<p align="center">
-  <a href="https://github.com/ansiace/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
-
 <!--trophy-->
 
 <p align="right "> <img src="https://komarev.com/ghpvc/?username=ansiace&label=Profile%20views&color=0e75b6&style=flat" alt="ansiace" /> </p>
