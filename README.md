@@ -1,6 +1,6 @@
 <!-- 🧑‍💻About me -->
 
-<h1 align="center">Hi 👋, I am Animesh Raj</h1>
+<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><h1 align="center">Hi 👋, I am Animesh Raj</h1></p>
 
 <!--trophy-->
 
