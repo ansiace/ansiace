@@ -4,7 +4,7 @@
 
 <!--trophy-->
 
-<p align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://komarev.com/ghpvc/?username=ansiace&label=Profile%20views&color=0e75b6&style=flat" alt="ansiace" </p>
+<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://komarev.com/ghpvc/?username=ansiace&label=Profile%20views&color=0e75b6&style=flat" alt="ansiace" </p>
 
   
   <h3 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45px"> About Me: </h3>
