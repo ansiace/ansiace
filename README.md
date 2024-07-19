@@ -1,6 +1,6 @@
 <!-- my name -->
 
-<h1 align="center">Hi...I am Animesh Raj👋 </h1></p>
+<h1 align="center">Hi..👋I am Animesh Raj </h1></p>
 
 <!--trophy-->
 
