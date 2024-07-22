@@ -13,7 +13,7 @@
 
 <!-- 🧑‍💻About me -->
   
-  <h3 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45px"> About Me: </h3>
+  <h3> About Me: </h3>
   
 
 
