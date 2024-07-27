@@ -29,7 +29,7 @@
  📫 Reach me through mail
 ```
 - mail  animeshraj80707@gmail.com
----
+----
 <!--stay connected with me-->
 
 <h3 align="left">Stay connected with me:</h3>
@@ -51,7 +51,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansiace&show_icons=true&locale=en" alt="ansiace" /></p>
 
 <!--Github streak-->
----
+----
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansiace&" alt="ansiace" /></p>
 
 
