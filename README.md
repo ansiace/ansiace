@@ -26,7 +26,7 @@
 
  👯 I’m looking to collaborate on open source projects related to web development
 
- 📫 How to reach me
+ 📫 Reach me through mail
 ```
  - animeshraj80707@gmail.com
 
