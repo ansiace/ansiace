@@ -52,6 +52,6 @@
 
 <!--Github streak-->
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansiace&" alt="ansiace" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansiace&" alt="ansiace" /></p>
 
 
