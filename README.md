@@ -19,7 +19,7 @@
 
 <!-- currently learning skills  -->
 
-
+```
 - 🌱 I’m currently learning *DSA* and *MERN stack*.
 
 - 💬 Ask me about **Full-Stack** and **DSA**
@@ -27,7 +27,7 @@
 - 👯 I’m looking to collaborate on open source projects related to web development
 
 - 📫 How to reach me **animeshraj80707@gmail.com**
-
+```
 <!--stay connected with me-->
 
 <h3 align="left">Stay connected with me:</h3>
