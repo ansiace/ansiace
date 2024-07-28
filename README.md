@@ -1,11 +1,12 @@
 <!-- my name -->
 
 <h1 align="center">Hi 👋, I'm Animesh Raj </h1></p>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <!--trophy-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansiace" alt="ansiace" /></a> </p>
-<h3 align="center">A passionate Web developer from India</h3>
+
 <!--profile views-->
 ----
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=ansiace&label=Profile%20views&color=0e75b6&style=flat" alt="ansiace" </p>
