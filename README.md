@@ -14,14 +14,11 @@
 ----
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=ansiace&label=Profile%20views&color=0e75b6&style=flat" alt="ansiace" </p>
   
-
 <!-- 🧑‍💻About me -->
   
-  <h3> About Me: </h3>
+<h3> About Me: </h3>
   
-
-
-<!-- currently learning skills  -->
+  <!-- currently learning skills  -->
 
 ```
  🌱 I’m currently learning DSA and MERN stack.
@@ -58,12 +55,12 @@
 ----
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansiace&" alt="ansiace" /></p>
 
-<!--Graph-->
+<!--Contribution Graph-->
 ----
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansiace&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
-
+<!--END-->
 
