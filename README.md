@@ -24,13 +24,13 @@
   
   <!-- currently learning skills  -->
 
- 🌱 I’m currently learning DSA and MERN stack.
+ - 🌱 I’m currently learning DSA and MERN stack.
 
- 💬 Ask me about Full-Stack and DSA
+ - 💬 Ask me about Full-Stack and DSA
 
- 👯 I’m looking to collaborate on open source projects related to web development
+ - 👯 I’m looking to collaborate on open source projects related to web development
 
- 📫 Reach me through mail animeshraj80707@gmail.com
+ - 📫 Reach me through mail animeshraj80707@gmail.com
  
 -----
 <!--stay connected with me-->
