@@ -40,7 +40,9 @@
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://badgr.com/public/assertions/-ZJl-0cWR8O6ARh5R0O7JA?identity__email=animeshrai2412%40gmail.com">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  
 <!--stay connected with me-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajanimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajanimesh" height="30" width="40" /></a>
