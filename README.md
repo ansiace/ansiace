@@ -34,12 +34,18 @@
  
 -----
 
-## Postman API Fundamentals Student Expert Certification 🪶
+# 🎖 Badges
+<div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 
-<br/>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://badgr.com/public/assertions/-ZJl-0cWR8O6ARh5R0O7JA?identity__email=animeshrai2412%40gmail.com">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />  
+
+
+<img src="https://github.com/user-attachments/assets/b83b50c9-186d-400e-a256-bddcd64e367c" width="100px" height="100px" />  
+
+
+<br/>
   
 <!--stay connected with me-->
 
