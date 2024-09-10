@@ -42,7 +42,7 @@
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />  
 
 
-<img src="https://github.com/user-attachments/assets/b83b50c9-186d-400e-a256-bddcd64e367c" width="100px" height="100px" />  
+<a href="https://api.badgr.io/public/assertions/fatlU9UmR466PnbtsCG5eA?identity__email=animeshrai2412%40gmail.com"> <img src="https://github.com/user-attachments/assets/b83b50c9-186d-400e-a256-bddcd64e367c" width="100px" height="100px" />  </a>
 
 
 <br/>
