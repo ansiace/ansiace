@@ -43,6 +43,21 @@
 
 
 
+
+
+# badges 22
+
+<div style='display:flex; align-items:center; gap: 20px;' align='center'>
+  <a href="https://api.badgr.io/public/assertions/fatlU9UmR466PnbtsCG5eA?identity__email=animeshrai2412%40gmail.com" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/4ccb6f7b-7e4e-4b28-97ce-8a02a47889ff" width="100px" height="100px" alt="Badge 1" />
+  </a>
+  <a href="https://api.badgr.io/public/assertions/fatlU9UmR466PnbtsCG5eA?identity__email=animeshrai2412%40gmail.com" target="_blank"> 
+    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" alt="Badge 2" />
+  </a>
+</div>
+
+
+
 <br/>
   
 <!--stay connected with me-->
