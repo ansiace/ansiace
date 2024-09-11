@@ -38,7 +38,7 @@
 
 
 
-<a href = "https://github.com/user-attachments/assets/0294e26c-b610-45a7-84b1-203e6cc89e67 "> https://api.badgr.io/public/assertions/-ZJl-0cWR8O6ARh5R0O7JA?identity__email=animeshrai2412%40gmail.com </a>
+<a href = "https://github.com/user-attachments/assets/0294e26c-b610-45a7-84b1-203e6cc89e67 "> </a>
 
 
 
