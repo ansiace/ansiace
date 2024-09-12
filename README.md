@@ -36,6 +36,7 @@
 
 # 🎖 Badges
 
+![Postman - Postman API Fundamentals Student Expert - 2024-08-29 (1)](https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755)
 
 
 <a href = "https://github.com/user-attachments/assets/0294e26c-b610-45a7-84b1-203e6cc89e67 "> </a>
