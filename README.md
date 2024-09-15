@@ -35,9 +35,10 @@
 -----
 
 # 🎖 Badges
-
+<!--Postman Badge-->
 <img src ="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="150">
-![History 101 - American Heroes - 2024-08-29 (2)(1)](https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50)
+<!--American Heroes Badge-->
+<img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="150">
 
 
 <a href = "https://github.com/user-attachments/assets/0294e26c-b610-45a7-84b1-203e6cc89e67 "> </a>
