@@ -36,7 +36,7 @@
 
 # 🎖 Badges
 
-![Postman - Postman API Fundamentals Student Expert - 2024-08-29 (1)](https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755)
+<img src ="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="150">
 ![History 101 - American Heroes - 2024-08-29 (2)(1)](https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50)
 
 
