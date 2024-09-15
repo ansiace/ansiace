@@ -26,9 +26,11 @@
 
  - 🌱 I’m currently learning DSA and MERN stack.
 
- - 💬 Ask me about Full-Stack and DSA
+ - 💬 Ask me about Full-Stack and DSA.
 
- - 👯 I’m looking to collaborate on open source projects related to web development
+ - 🪶 Earned the Postman API Fundamentals Student Expert badge from <img src="https://github.com/user-attachments/assets/e32752a5-4e64-4033-a6f8-172cad954eda" width="95">
+
+ - 👯 I’m looking to collaborate on open source projects related to web development.
 
  - 📫 Reach me through mail animeshraj80707@gmail.com
  
