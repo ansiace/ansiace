@@ -40,11 +40,11 @@
 <!--Postman Badge-->
 
 
-  <img src ="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="150">  
+  <img src ="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="75">  
   
 
 <!--American Heroes Badge-->
-<img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="150">
+<img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="75">
 
 
 
