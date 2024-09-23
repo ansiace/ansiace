@@ -24,7 +24,7 @@
   
   <!-- currently learning skills  -->
 
- - 🌱 I’m currently learning DSA and MERN stack.
+ - 🌱 I’m currently learning DSA and Development.
 
  - 💬 Ask me about Full-Stack and DSA.
 
