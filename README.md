@@ -40,12 +40,12 @@
 
 <!--Postman Badge-->
 <a href="https://api.badgr.io/public/assertions/-ZJl-0cWR8O6ARh5R0O7JA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=animeshrai2412%40gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="75" alt="Postman API Fundamentals Student Expert">
+    <img src="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="105" alt="Postman API Fundamentals Student Expert">
 </a>
 
   
 <!--American Heroes Badge-->
-<img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="75">
+<img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="105">
 
 <br/>
   
