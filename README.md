@@ -45,7 +45,10 @@
 
   
 <!--American Heroes Badge-->
-<img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="105">
+<a href="https://api.badgr.io/public/assertions/fatlU9UmR466PnbtsCG5eA?identity__email=animeshrai2412%40gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="105" alt="American Heroes Badge">
+</a>
+
 
 <br/>
   
