@@ -28,7 +28,9 @@
 
  - 💬 Ask me about Full-Stack and DSA.
 
- - 🪶 Earned the postman API Fundamentals Student Expert badge from <img src="https://github.com/user-attachments/assets/e32752a5-4e64-4033-a6f8-172cad954eda" width="75">
+ - 🪶 Earned the postman API Fundamentals Student Expert badge from Postman.
+
+ - 🎉 Selected as a Contributor for GirlScript Summer of Code 2024 Extended Edition! 
 
  - 👯 I’m looking to collaborate on open source projects related to web development.
 
