@@ -1,8 +1,6 @@
 <!--Github Banner-->
 
-
-![The developer to every Indian (1)](https://github.com/user-attachments/assets/32d5e96e-f175-46ae-9af4-1551bf2d3fd1)
-
+![The developer to every Indian (1)](https://github.com/user-attachments/assets/3c4c9c0b-92c5-475f-a602-f34786542a75)
 
 <!-- my name-->
 
