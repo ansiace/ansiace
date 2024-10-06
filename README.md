@@ -20,7 +20,7 @@
   
 <!-- 🧑‍💻Current About me -->
   
-<h3> 💁‍♂️About Me: </h3>
+<h3> 👤Profile Overview: </h3>
   
   <!-- currently learning skills  -->
 
