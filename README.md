@@ -11,8 +11,12 @@
 <h3 align="center">A Passionate Web developer from India</h3>
 
 <!--trophy-->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ansiace&theme=darkhub" alt="ansiace" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansiace" alt="ansiace" /></a> </p>
 
 <!--profile views-->
 ----
