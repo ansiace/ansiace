@@ -68,7 +68,8 @@
 
 <!-- most used languages-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansiace&show_icons=true&locale=en&layout=compact" alt="ansiace" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansiace&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffea&icon_color=00ffea" alt="ansiace" /></p>
+
 
 <!--github stats-->
 
