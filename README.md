@@ -20,11 +20,9 @@
 
 ----
   
-<!-- 🧑‍💻Current About me -->
+<!-- 🧑‍💻Profile Overview -->
   
 <h3> 👤Profile Overview: </h3>
-  
-  <!-- currently learning skills  -->
 
  - 🌱 I’m currently learning DSA and Development.
 
