@@ -77,7 +77,9 @@
 
 <!--Github streak-->
 ----
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansiace&" alt="ansiace" /></p>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansiace&theme=dark&background=0d1117&stroke=ffffff&ring=00ffea&fire=00ffea&currStreakLabel=00ffea" alt="ansiace" />
+</p>
 
 <!--Contribution Graph-->
 
