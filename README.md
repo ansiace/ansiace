@@ -13,9 +13,10 @@
 <!--trophy-->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ansiace&theme=onedark&no-frame=true&bg_color=f7a8b8&title_color=87ceeb" alt="ansiace" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ansiace&theme=gruvbox&no-frame=true&bg_color=f5b7b1&title_color=87ceeb" alt="ansiace" />
   </a>
 </p>
+
 
 
 
