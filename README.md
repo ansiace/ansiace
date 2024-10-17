@@ -59,9 +59,17 @@
     <img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="105" alt="American Heroes Badge">
 </a>
 
-
+-----
 <br/>
-  
+
+# 🏆 My Holopin Badges 🥇
+
+<!--holopin bages-->
+
+[![An image of @ansiace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ansiace)](https://holopin.io/@ansiace)
+
+---
+
 <!--stay connected with me-->
 
 <h3 align="left">Connect with me:</h3>
