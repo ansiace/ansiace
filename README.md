@@ -89,7 +89,7 @@
 -----
 <br/>
 
-# 🏆 My Holopin Badges 🥇
+# 🏆 Holopin Badges 🥇
 
 <!--holopin bages-->
 
