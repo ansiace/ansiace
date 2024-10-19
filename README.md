@@ -54,12 +54,16 @@
     <img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="96" alt="American Heroes Badge">
 </a>
 
-
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/c2ed0f18-ae19-4b8e-b354-f92ded3f4493" width="96"/>
+</a>
 
+
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/d01deebf-5e97-41cd-a18b-be55e156eb15" width="96"/>
+</a>
 
-<img src="https://github.com/user-attachments/assets/e2f91c6c-b719-45aa-84d4-7d1dae58d8c4" width="96"/>
+
 
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
