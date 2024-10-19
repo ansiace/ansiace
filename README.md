@@ -62,6 +62,9 @@
 <img src="https://github.com/user-attachments/assets/e2f91c6c-b719-45aa-84d4-7d1dae58d8c4" width="96"/>
 
 
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e2f91c6c-b719-45aa-84d4-7d1dae58d8c4" width="96"/>
+</a>
 
 
 
