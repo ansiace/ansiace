@@ -60,19 +60,20 @@
 <img src="https://github.com/user-attachments/assets/c50c143c-678c-49cd-8d66-7e5642b94f02" width="96"/>
 </a>
 
+<!--Gssoc 2nd badge-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
     <img src="https://github.com/user-attachments/assets/e2f91c6c-b719-45aa-84d4-7d1dae58d8c4" width="96"/>
 </a>
 
-
+<!--Gssoc 3rd badge-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/d01deebf-5e97-41cd-a18b-be55e156eb15" width="96"/>
 </a>
 
 
-
+<!--Gssoc 4th badge-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/c2ed0f18-ae19-4b8e-b354-f92ded3f4493" width="96"/>
