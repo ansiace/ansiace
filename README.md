@@ -25,7 +25,7 @@
   
 <!-- 🧑‍💻Profile Overview -->
   
-<h3> 👤Profile Overview: </h3>
+<h3> 🧑‍💻Profile Overview: </h3>
 
  - 🌱 I’m currently learning DSA and Development.
 
