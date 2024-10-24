@@ -54,6 +54,7 @@
     <img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="96" alt="American Heroes Badge">
 </a>
 
+<!--Gssoc 1st badge-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/c50c143c-678c-49cd-8d66-7e5642b94f02" width="96"/>
