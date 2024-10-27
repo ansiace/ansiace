@@ -27,7 +27,7 @@
   
 <h3> 🧑‍💻Profile Overview: </h3>
 
- - 🌱 I’m currently learning DSA and Development.
+ - 💻 I am currently contributing to an open-source project.
 
  - 💬 Ask me about Full-Stack and DSA.
 
