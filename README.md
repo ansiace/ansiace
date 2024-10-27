@@ -72,12 +72,18 @@
 <img src="https://github.com/user-attachments/assets/d01deebf-5e97-41cd-a18b-be55e156eb15" width="96"/>
 </a>
 
-
 <!--Gssoc 4th Summit Seeker Badge	-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/c2ed0f18-ae19-4b8e-b354-f92ded3f4493" width="96"/>
 </a>
+
+<!--Gssoc 5th Champion Badge	-->
+
+<a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="96" alt="GSSoC Badge">
+</a>
+
 
 
 -----
