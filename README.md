@@ -54,31 +54,31 @@
     <img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="96" alt="American Heroes Badge">
 </a>
 
-<!--Gssoc 1st Explorer Badge-->
+<!--Gssoc 1st Explorer Badge on 60 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/c50c143c-678c-49cd-8d66-7e5642b94f02" width="96"/>
 </a>
 
-<!--Gssoc 2nd Adventurer Badge-->
+<!--Gssoc 2nd Adventurer Badge on 140 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
     <img src="https://github.com/user-attachments/assets/e2f91c6c-b719-45aa-84d4-7d1dae58d8c4" width="96"/>
 </a>
 
-<!--Gssoc 3rd Trailblazer Badge-->
+<!--Gssoc 3rd Trailblazer Badge on 200 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/d01deebf-5e97-41cd-a18b-be55e156eb15" width="96"/>
 </a>
 
-<!--Gssoc 4th Summit Seeker Badge	-->
+<!--Gssoc 4th Summit Seeker Badge	on 300 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/c2ed0f18-ae19-4b8e-b354-f92ded3f4493" width="96"/>
 </a>
 
-<!--Gssoc 5th Champion Badge	-->
+<!--Gssoc 5th Champion Badge on 500 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="96" alt="GSSoC Badge">
