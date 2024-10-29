@@ -93,7 +93,7 @@
 
 <!--holopin bages-->
 
-[![An image of @ansiace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ansiace)](https://holopin.io/@ansiace)
+(https://holopin.me/ansiace)](https://holopin.io/@ansiace)
 
 ---
 
