@@ -10,14 +10,14 @@
 
 <h3 align="center">A Passionate Web developer from India</h3>
 
-<!--trophy-->
+<!--Trophy-->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ansiace&theme=gruvbox&no-frame=true&bg_color=f5b7b1&title_color=87ceeb" alt="ansiace" />
   </a>
 </p>
 
-<!--profile views-->
+<!--Profile views-->
 ----
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=ansiace&label=Page%20views&color=0e75b6&style=flat" alt="ansiace" </p>
 
