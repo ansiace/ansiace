@@ -88,9 +88,10 @@
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="96" alt="GSSoC Badge">
 </a>
 
-
+<!--Gssoc 6th Innovator Badge on 1200 points-->
+<a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/user-attachments/assets/3c9f86b5-9d3c-4e60-8a61-2bbe93fe88e2" width="96" />
-
+</a>
 
 
 <a href="https://gssoc.girlscript.tech/leaderboard">
