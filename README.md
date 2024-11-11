@@ -48,7 +48,11 @@
     <img src="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="96" alt="Postman API Fundamentals Student Expert">
 </a>
 
-  
+
+<img src="https://github.com/user-attachments/assets/8efa4bff-9b43-4c70-88d8-e2d43dd7aecc" width="96" />
+
+
+
 <!--American Heroes Badge-->
 <a href="https://api.badgr.io/public/assertions/fatlU9UmR466PnbtsCG5eA?identity__email=animeshrai2412%40gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="96" alt="American Heroes Badge">
