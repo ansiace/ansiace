@@ -48,9 +48,10 @@
     <img src="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="96" alt="Postman API Fundamentals Student Expert">
 </a>
 
-
+<!--HACK WEB3CONF INDIA Badge -->
+<a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/8efa4bff-9b43-4c70-88d8-e2d43dd7aecc" width="96" />
-
+</a>
 
 
 <!--American Heroes Badge-->
