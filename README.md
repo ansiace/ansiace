@@ -84,7 +84,6 @@
 </a>
 
 <!--Gssoc 5th Champion Badge on 500 points-->
-
 <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="96" alt="GSSoC Badge">
 </a>
@@ -94,15 +93,10 @@
 <img src="https://github.com/user-attachments/assets/3c9f86b5-9d3c-4e60-8a61-2bbe93fe88e2" width="96" />
 </a>
 
-
-
 <!--Gssoc Git explorer Badge-->
 <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/user-attachments/assets/53c905f6-5cb7-4333-83b0-eab4f0c2d276" width="105" alt="Image">
 </a>
-
-
-
 
 
 -----
@@ -147,8 +141,10 @@
 
 ----
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansiace&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansiace&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
+
+
 
 <!--END-->
 
