@@ -141,8 +141,10 @@
 
 ----
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansiace&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansiace&radius=16&theme=react-dark&bg_color=0d1117&color=00e6e6&line=00e6e6&point=00e6e6&area=true&area_color=00e6e6&order=5" height="300" alt="activity-graph graph" />
 </div>
+
+
 
 
 
