@@ -95,6 +95,9 @@
 </a>
 
 
+
+<!--Gssoc Git explorer Badge-->
+<a
 <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/user-attachments/assets/53c905f6-5cb7-4333-83b0-eab4f0c2d276" width="105" alt="Image">
 </a>
