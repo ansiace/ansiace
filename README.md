@@ -27,7 +27,7 @@
   
 <h3> 🧑‍💻Profile Overview: </h3>
 
- - 💻 I am currently contributing to an open-source project(Girlscript summer of code) .
+ - 💻 I am currently learning Web Devlopment.
 
  - 💬 Ask me about Full-Stack and DSA.
 
