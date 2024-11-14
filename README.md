@@ -43,12 +43,12 @@
 
 # 🎖GSSoC'24 Badge
 
-<!--Postman Badge-->
+<!-- GSSoC Postman Badge-->
 <a href="https://api.badgr.io/public/assertions/-ZJl-0cWR8O6ARh5R0O7JA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=animeshrai2412%40gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="96" alt="Postman API Fundamentals Student Expert">
 </a>
 
-<!--HACK WEB3CONF INDIA Badge -->
+<!-- GSSoC HACK WEB3CONF INDIA Badge -->
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/8efa4bff-9b43-4c70-88d8-e2d43dd7aecc" width="96" />
 </a>
@@ -59,41 +59,41 @@
     <img src="https://github.com/user-attachments/assets/60802d4b-e6cb-4072-9065-0f89bbdc1e50" width="96" alt="American Heroes Badge">
 </a>
 
-<!--Gssoc 1st Explorer Badge on 60 points-->
+<!--GSSoC 1st Explorer Badge on 60 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/c50c143c-678c-49cd-8d66-7e5642b94f02" width="96"/>
 </a>
 
-<!--Gssoc 2nd Adventurer Badge on 140 points-->
+<!--GSSoC 2nd Adventurer Badge on 140 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
     <img src="https://github.com/user-attachments/assets/e2f91c6c-b719-45aa-84d4-7d1dae58d8c4" width="96"/>
 </a>
 
-<!--Gssoc 3rd Trailblazer Badge on 200 points-->
+<!--GSSoC 3rd Trailblazer Badge on 200 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/d01deebf-5e97-41cd-a18b-be55e156eb15" width="96"/>
 </a>
 
-<!--Gssoc 4th Summit Seeker Badge	on 300 points-->
+<!--GSSoC 4th Summit Seeker Badge	on 300 points-->
 
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
 <img src="https://github.com/user-attachments/assets/c2ed0f18-ae19-4b8e-b354-f92ded3f4493" width="96"/>
 </a>
 
-<!--Gssoc 5th Champion Badge on 500 points-->
+<!--GSSoC 5th Champion Badge on 500 points-->
 <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="96" alt="GSSoC Badge">
 </a>
 
-<!--Gssoc 6th Innovator Badge on 1200 points-->
+<!--GSSoC 6th Innovator Badge on 1200 points-->
 <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/user-attachments/assets/3c9f86b5-9d3c-4e60-8a61-2bbe93fe88e2" width="96" />
 </a>
 
-<!--Gssoc Git explorer Badge-->
+<!--GSSoC Git explorer Badge-->
 <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://github.com/user-attachments/assets/53c905f6-5cb7-4333-83b0-eab4f0c2d276" width="105" alt="Image">
 </a>
