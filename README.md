@@ -19,7 +19,7 @@
 
 <!--Profile views-->
 ----
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=ansiace&label=ProfileViews%20views&color=0e75b6&style=flat" alt="ansiace" </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=ansiace&label=ProfileViews%20&color=0e75b6&style=flat" alt="ansiace" </p>
 
 ----
   
