@@ -27,7 +27,7 @@
   
 <h3> 🧑‍💻Profile Overview: </h3>
 
- - 💻 I am currently learning Web Devlopment.
+ - 💻 I am currently learning Next.js.
 
  - 💬 Ask me about Full-Stack and DSA.
 
