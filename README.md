@@ -1,7 +1,6 @@
 <!--Github Banner-->
 
-![image](https://github.com/user-attachments/assets/70d65053-3a80-40f6-92bf-f9112b263341)
-
+![1](https://github.com/user-attachments/assets/037c0b93-c14e-4d28-81dd-b42876ae77e0)
 
 
 <!-- my name-->
