@@ -30,7 +30,7 @@
 
  - 💻 I am currently learning Next.js.
 
- - 💬 Ask me about Full-Stack and DSA.
+ - 💬 Ask me about Full-Stack.
 
  - 🪶 Earned the postman API Fundamentals Student Expert badge from Postman.
 
