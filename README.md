@@ -34,7 +34,7 @@
 
  - 🪶 Earned the postman API Fundamentals Student Expert badge from Postman.
 
- - 🎉 Rank 125 in GirlScript Summer of Code 2024 - Extended Edition!
+ - 🎉 **Rank 125** in GirlScript Summer of Code 2024 - Extended Edition!
 
  - 👯 I’m looking to collaborate on open source projects related to web development.
 
