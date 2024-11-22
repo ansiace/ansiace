@@ -42,7 +42,7 @@
  
 -----
 
-# GSSOC(24) Badges 🪶
+# GSSOC(24) Global Badges 🪶
 
 <!-- GSSoC Postman Badge-->
 <a href="https://api.badgr.io/public/assertions/-ZJl-0cWR8O6ARh5R0O7JA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=animeshrai2412%40gmail.com" target="_blank">
