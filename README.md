@@ -30,7 +30,7 @@
 
  - 💻 I am currently learning DSA. 
 
- - 💬 Ask me about Full-Stack.
+ - 💬 Ask me about DSA. 
 
  - 🪶 Earned the postman API Fundamentals Student Expert badge from Postman.
 
