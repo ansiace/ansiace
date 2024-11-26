@@ -1,49 +1,59 @@
-<!--Github Banner-->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 
-![1](https://github.com/user-attachments/assets/037c0b93-c14e-4d28-81dd-b42876ae77e0)
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- animesh's Icon ------------------------------------------------------------------------------------------------------------------------------>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
+  <div>
+    <div align="center">
+        <a href="https://github.com/ansiace"><img src="animesh.png" height="400" /></a>
+    </div>
+    
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- animesh's Profile Bar ----------------------------------------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
-<!-- my name-->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ansiace.vercel.app/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=ansiace&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
-<h1 align="center">Hi 👋, I'm Animesh Raj </h1></p>
+<p align = "center"><img src = "https://komarev.com/ghpvc/?username=ansiace&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="27"/></p>
 
-<!--Passionate about-->
 
-<h3 align="center">A Passionate Web developer from India</h3>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- about section ----------------------------------------------------------------------------------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<!--Trophy-->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ansiace&theme=gruvbox&no-frame=true&bg_color=f5b7b1&title_color=87ceeb" alt="ansiace" />
-  </a>
-</p>
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
+<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
+- 🏢 I am a Full-Stack Developer at [`Learn & Build`](https://learnandbuild.in/).
+- 🏫 3<sup>rd</sup> year CSE Student at [`Rajasthan Technical University`](https://www.rtu.ac.in/index/).
+- 🧑‍💻 Love Coding in C++ and Java mostly.
+- 🙂 10+ PRs merged as a Contributor in [`Hacktoberfest'24`](https://hacktoberfest.com/).
+- 🙂 Open Source Contributor at [`GSSoC'24`](https://gssoc.girlscript.tech/).
+- 🏆 Secured 125<sup>th</sup> Rank Globally & Received **Letter of Recommendation** in [`GSSoC'24`](https://gssoc.girlscript.tech/).
+- 🤓 Always try to `learn new things`.
 
-<!--Profile views-->
-----
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=ansiace&label=Profile%20Views&color=0e75b6&style=flat" alt="ansiace" </p>
 
-----
-  
-<!-- 🧑‍💻Profile Overview -->
-  
-<h3> 🧑‍💻Profile Overview: </h3>
+<table align = "center">
+<tr>
+<td align = "center"> ✨ Full-Stack Developer Student at <a href = "https://learnandbuild.in/"><br>Learn & Build</a> <br>(August'23 - July'24) </td>
+<td align = "center"> 💫 Software Engineering Intern at <a href = "https://www.opentext.com/"><br>OpenText</a> <br>(October'23 - March'24) </td>
+<td align = "center"> 🌟 Web Development Intern at <a href = "https://internship.thesparksfoundation.info/"><br>The Sparks Foundation</a> <br>in October'22, <b>Received LOR</b> </td>
+<td align = "center"> 🌟 Internship Trainee <a href = "https://learnandbuild.in/"><br>Learn & Build</a> <br>in July'24 - August'24 <b>Received LOR</b> </td>
+<td align = "center"> 🌟 Student Intern at <a href = "https://learnandbuild.in/"><br>Learn & Build</a> <br>in August'23 - July'24 </td>
+</tr>
+</table>
 
- - 💻 I am currently learning DSA. 
+<br>
+<br>
 
- - 💬 Ask me about DSA. 
+<details>
+<summary>GSSOC'24 Dynamic Badges 🪶</summary>
 
- - 🪶 Earned the postman API Fundamentals Student Expert badge from Postman.
-
- - 🎉 **Rank 125** in GirlScript Summer of Code 2024 - Extended Edition!
-
- - 👯 I’m looking to collaborate on open source projects related to web development.
-
- - 📫 Reach me through mail animeshraj80707@gmail.com
- 
------
-
-# GSSOC(24) Dynamic Badges 🪶
-
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <!-- GSSoC Postman Badge-->
 <a href="https://api.badgr.io/public/assertions/-ZJl-0cWR8O6ARh5R0O7JA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=animeshrai2412%40gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/ddec9832-7a25-4414-acd3-fcf69bb9f755" width="96" alt="Postman API Fundamentals Student Expert">
@@ -99,57 +109,195 @@
 <img src="https://github.com/user-attachments/assets/53c905f6-5cb7-4333-83b0-eab4f0c2d276" width="105" alt="Image">
 </a>
 
+</div>
 
------
-<br/>
+</details>
 
-# 🏅Holopin Badges
+
+<br>
+<br>
+
+<details>
+<summary>🏅Holopin Badges</summary>
 
 <!--holopin bages-->
 
 [![An image of @ansiace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ansiace)](https://holopin.io/@ansiace)
 
----
 
-<!--stay connected with me-->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajanimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajanimesh" height="30" width="40" /></a>
-</p>
-
-<!--programming languages and tools-->
-----
-<h3 align="left">Programming languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<!-- most used languages-->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansiace&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffea&icon_color=00ffea" alt="ansiace" /></p>
-
-
-<!--github stats-->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansiace&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=00ffea&icon_color=00ffea" alt="ansiace" /></p>
-
-<!--Github streak-->
-----
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansiace&theme=dark&background=0d1117&stroke=ffffff&ring=00ffea&fire=00ffea&currStreakLabel=00ffea" alt="ansiace" />
-</p>
-
-<!--Contribution Graph-->
-
-----
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansiace&radius=16&theme=react-dark&bg_color=0d1117&color=00e6e6&line=00e6e6&point=00e6e6&area=true&area_color=00e6e6&order=5" height="300" alt="activity-graph graph" />
 </div>
 
+</details>
+
+
+<br>
 
 
 
 
-<!--END-->
+
+<!-- Skill Set  -->
+<div align="center">
+    <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
+    <h4>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions. </h4>
+</div>
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Animesh's Tech Stack Table    ----------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="40" height="40" />
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
+      <br>Golang
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
+      <br>HTML
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
+      <br>CSS
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="BootStrap" />
+      <br>BootStrap
+    </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
+      <br>NextJS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
+      <br>TailWind CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="threejs" />
+      <br>Three.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
+      <br>Github
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
+      <br>ExpreeJS
+    </td>
+            <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" alt="django" />
+      <br>Django
+    </td>
+              <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="rest" />
+      <br>REST
+    </td>
+              <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
+      <br>GraphQL
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>AWS
+    </td>
+              <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+ </tr>
+</table>
+
+<br>
 
 
-                                                                        
+
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>&nbsp;&nbsp; My Github Stats
+
+<h3>🔥 Streak Stats</h3>
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://streak-stats.demolab.com?user=ansiace&theme=vision-friendly-dark&border_radius=10"/>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
+</p>
+
+<h3>💻 GitHub Profile Stats</h3>
+<p align = "center">
+<a href = "https://github.com/ansiace">
+<img src = "https://github-readme-stats.vercel.app/api?username=ansiace&show_icons=true&count_private=true&locale=en&theme=vision-friendly-dark&layout=compact" alt = "Animesh's Github Stats" height = 200px/></a>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ansiace&langs_count=15&layout=compact&locale=en&theme=vision-friendly-dark" alt = "Languages Used" height = 200px/>
+<br><br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+
+[![ANimesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansiace&theme=merko)](https://github.com/ansiace)
+
+
+
+
+### work in progress...
