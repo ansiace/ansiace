@@ -295,7 +295,7 @@
 
 <p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
-[![ANimesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansiace&theme=merko)](https://github.com/ansiace)
+[![Animesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansiace&theme=merko)](https://github.com/ansiace)
 
 
 
