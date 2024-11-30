@@ -265,10 +265,7 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
+  
  </tr>
 </table>
 
