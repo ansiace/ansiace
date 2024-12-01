@@ -325,5 +325,5 @@
 
 ### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = "https://ansiace.vercel.app"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
 
-### Show some ❤️ by starring some of my repositories !!
+### Show some ❤️ by starring your favorite repositories. 🌟
 </div>
