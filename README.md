@@ -55,7 +55,7 @@
 <br>
 
 <details>
-<summary>GSSOC'24 Dynamic Badges 🪶</summary>
+<summary> 𝓖𝓢𝓢𝓞𝓒'24 𝓓𝔂𝓷𝓪𝓶𝓲𝓬 𝓑𝓪𝓭𝓰𝓮𝓼 🪶</summary>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <!-- GSSoC Postman Badge-->
