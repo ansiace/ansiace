@@ -316,7 +316,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-### :heavy_check_mark: Want to know more about me, Please visit &nbsp; <a href = "https://ansiace.vercel.app"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+### :heavy_check_mark:✨ Explore more about me! , Please visit &nbsp; <a href = "https://ansiace.vercel.app"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
 
-### Show some ❤️ by starring your favorite repositories. 🌟
+### 💖 Star your favorite repositories and spread the love! 🌟
 </div>
