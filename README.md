@@ -122,7 +122,7 @@
 <br>
 
 <details>
-<summary> 🏅Holopin Badges</summary>
+<summary>𝓗𝓸𝓵𝓸𝓹𝓲𝓷 𝓑𝓪𝓭𝓰𝓮𝓼 🏅</summary>
 
 <!--holopin bages-->
 
