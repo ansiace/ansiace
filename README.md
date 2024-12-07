@@ -40,7 +40,7 @@
 - 🧑‍💻 Love Coding in C++ and Java mostly.
 - 🙂 20+ PRs merged as a Contributor in [`Hacktoberfest'24`](https://hacktoberfest.com/).
 - 🙂 Open Source Contributor at [`GSSoC'24`](https://gssoc.girlscript.tech/).
-- 🏆 Secured 125<sup>th</sup> Rank Globally & Received **Letter of Recommendation** in [`GSSoC'24`](https://gssoc.girlscript.tech/).
+- 🏆 **Secured** **125** <sup>th</sup> Rank Globally & Received **Letter of Recommendation** in [`GSSoC'24`](https://gssoc.girlscript.tech/).
 - 🤓 Always try to `learn new things`.
 
 
