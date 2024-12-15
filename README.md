@@ -50,7 +50,7 @@
 <td align = "center"> 💫 Software Engineering Intern at <a href = "https://www.opentext.com/"><br>OpenText</a> <br>(October'23 - March'24) </td>
 <td align = "center"> 🌟 Web Development Intern at <a href = "https://internship.thesparksfoundation.info/"><br>Learn and Build</a> <br>in October'22, <b>Received LOR</b> </td>
 <td align = "center"> 🌟 Internship Trainee <a href = "https://learnandbuild.in/"><br>Learn & Build</a> <br>in July'24 - August'24 <b>Received LOR</b> </td>
-<td align = "center"> 🌟 Student Intern at <a href = "https://learnandbuild.in/"><br>Learn & Build</a> <br>in August'23 - July'24 </td>
+<td align = "center"> 🌟 Contributer at <a href = "https://learnandbuild.in/"><br>GSSoC'24</a> <br>in August'23 - July'24 </td>
 </tr>
 </table>
 
