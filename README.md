@@ -221,14 +221,6 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
       <br>TailWind CSS
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="threejs" />
-      <br>Three.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
-    </td>
   </tr>
  <tr>
       <td align="center" width="96">
