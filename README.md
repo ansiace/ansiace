@@ -228,9 +228,7 @@
       <br>Nodejs
       </td>
       </td>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
-      <br>ExpreeJS
+<!--
     </td> -->
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" alt="django" />
