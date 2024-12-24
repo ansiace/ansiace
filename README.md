@@ -232,10 +232,10 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" alt="django" />
       <br>Django
     </td>
-              <td align="center" width="96">
+<!--               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="rest" />
       <br>REST
-    </td>
+    </td> -->
               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
       <br>GraphQL
