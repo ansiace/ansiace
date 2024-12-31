@@ -184,10 +184,7 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="40" height="40" />
-      <br>Swift
-    </td>
+    
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
