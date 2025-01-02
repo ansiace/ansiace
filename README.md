@@ -201,10 +201,6 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
       <br>React
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
-      <br>TailWind CSS
-    </td>
   </tr>
  <tr>
       <td align="center" width="96">
