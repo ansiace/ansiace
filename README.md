@@ -245,6 +245,8 @@
 
 <p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
 
+<!----- GitHub Activity graph----------------------------------------------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 [![Animesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansiace&theme=custom&bg_color=0d1117&color=FFAA00&line=FF8800&point=FF7700&area=true&hide_border=true)](https://github.com/ansiace)
 
@@ -265,6 +267,8 @@
 
 
 ### :heavy_check_mark:✨ Explore more about me! , Please visit &nbsp; <a href = "https://ansiace.vercel.app"> <img src = "https://img.shields.io/badge/my_website-F4D03F.svg?&style=for-the-badge&logo=website&logoColor=white"/> </a> &nbsp; :100:
+
+
 
 ### 💖 Star your favorite repositories and spread the love! 🌟
 </div>
